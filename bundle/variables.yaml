@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-sum
+- admin-user: ps-ssingh-admin
+- manager-user: ps-ssingh
